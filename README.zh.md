@@ -1,11 +1,12 @@
 > [!NOTE]
-> 此 README 由 [Claude Code](https://github.com/pardnchiu/skill-readme-generate) 生成，英文版請參閱 [這裡](./README.md)。
+> 此 README 由 [SKILL](https://github.com/pardnchiu/skill-readme-generate) 生成，英文版請參閱 [這裡](./README.md)。
 
 # skill-changelog-generate
 
 [![license](https://img.shields.io/github/license/pardnchiu/skill-changelog-generate)](LICENSE)
 
-> Claude Code Skill，從 git diff 自動生成結構化 changelog（update.md），支援語意版本號自動遞增。
+> Claude Code Skill，從 git diff 自動生成結構化 changelog（update.md），支援語意版本號自動遞增。<br>
+> 此專案主要由 [Claude Code](https://claude.ai/claude-code) 生成，作者僅做部分調整。
 
 ## 目錄
 
@@ -120,24 +121,4 @@ Added automatic changelog generation with semantic versioning.
 
 ## 授權
 
-MIT License
-
-## Author
-
-<img src="https://avatars.githubusercontent.com/u/25631760" align="left" width="96" height="96" style="margin-right: 0.5rem;">
-
-<h4 style="padding-top: 0">邱敬幃 Pardn Chiu</h4>
-
-<a href="mailto:dev@pardn.io" target="_blank">
-<img src="https://pardn.io/image/email.svg" width="48" height="48">
-</a> <a href="https://linkedin.com/in/pardnchiu" target="_blank">
-<img src="https://pardn.io/image/linkedin.svg" width="48" height="48">
-</a>
-
-## Stars
-
-[![Star](https://api.star-history.com/svg?repos=pardnchiu/skill-changelog-generate&type=Date)](https://www.star-history.com/#pardnchiu/skill-changelog-generate&Date)
-
-***
-
-©️ 2026 [邱敬幃 Pardn Chiu](https://linkedin.com/in/pardnchiu)
+本專案採用 [MIT LICENSE](LICENSE)。
